@@ -1,0 +1,120 @@
+body {
+	background-color: #EDEDED;
+	font-family: Helvetica, Arial, sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #FF0000;
+}
+h1, h2, h3 {
+	margin: 0;
+}
+#container {
+	background-color: #F0F8FF;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	background-color: #8A2BE2;
+	color: #FF0000;
+	text-align: center;
+	padding: 10px;
+}
+
+#content{
+	padding: 20px;
+}
+
+#nav {
+	width: 180px;
+	float:left;
+}
+
+#nav .selected {
+	font-weight: bold;
+	
+}
+#nav .select {
+	font-weight: bold;		
+}
+
+#nav .selec {
+	font-weight: bold;
+}
+
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+
+
+#container2 {
+	background-color: #FFEECA;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header2 {
+	background-color: #FFD700;
+	color: #363636;
+	text-align: center;
+	padding: 10px;
+}
+#content2{
+	padding: 20px;
+}
+#nav2 {
+	width: 180px;
+	float:center;
+}
+#nav2 .choose1 {
+	font-weight: bold;
+}
+#nav2 .choose2 {
+	font-weight: bold;
+}
+#nav2 .choose3 {
+	font-weight: bold;
+}
+#nav2 .choose4 {
+	font-weight: bold;
+}
+#nav2 .choose5 {
+	font-weight: bold;
+}
+#nav2 .choose6 {
+	font-weight: bold;
+}
+#nav2 ul {
+	list-style-type: none;
+	padding: 0;
+}
+#about.html {
+	width: 600px;
+	float:right;
+
+}
+#container3 {
+	background-color: #FFEECA;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#content3{
+	padding: 20px;
+}
+#main {
+	
+	width: 600px;
+	float:right;
+}
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #BEBEBE;
+	color: #000000;
+	text-align: right;
+}
